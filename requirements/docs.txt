@@ -1,0 +1,6 @@
+mkdocs-material>=9.0.0
+mkdocstrings>=0.20.0
+mkdocstrings-python>=0.9.0
+pymdown-extensions>=9.0
+mkdocs-simple-hooks>=0.1.5
+pillow>=9.0.0  # for image handling
